@@ -1,0 +1,360 @@
+2013/09/25 10:14:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:14:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post/index".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('post/index')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php/post/index
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/page?view=about
+---
+2013/09/25 10:19:05 [error] [php] include(Controller.php): failed to open stream: No such file or directory (F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:244)
+Stack trace:
+#0 F:\vhost\yii-skeleton\frontend\controllers\SiteController.php(4): spl_autoload_call()
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1792): require()
+#2 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1740): CWebApplication->createController()
+#3 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController()
+#4 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#5 F:\vhost\yii-skeleton\frontend\www\index.php(14): CWebApplication->run()
+REQUEST_URI=/frontend/www/index.php/site/index
+2013/09/25 10:19:05 [error] [php] include(Controller.php): failed to open stream: No such file or directory (F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:244)
+Stack trace:
+#0 F:\vhost\yii-skeleton\frontend\controllers\SiteController.php(4): spl_autoload_call()
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1792): require()
+#2 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1740): CWebApplication->createController()
+#3 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController()
+#4 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#5 F:\vhost\yii-skeleton\frontend\www\index.php(14): CWebApplication->run()
+REQUEST_URI=/frontend/www/index.php/site/index
+2013/09/25 10:19:44 [error] [php] include(BaseController.php): failed to open stream: No such file or directory (F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:244)
+Stack trace:
+#0 F:\vhost\yii-skeleton\frontend\components\FrontendController.php(7): spl_autoload_call()
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(244): include()
+#2 unknown(0): autoload()
+#3 F:\vhost\yii-skeleton\frontend\controllers\SiteController.php(4): spl_autoload_call()
+#4 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1792): require()
+#5 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1740): CWebApplication->createController()
+#6 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController()
+#7 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#8 F:\vhost\yii-skeleton\frontend\www\index.php(14): CWebApplication->run()
+REQUEST_URI=/frontend/www/index.php/site/index
+2013/09/25 10:19:44 [error] [php] include(BaseController.php): failed to open stream: No such file or directory (F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:244)
+Stack trace:
+#0 F:\vhost\yii-skeleton\frontend\components\FrontendController.php(7): spl_autoload_call()
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(244): include()
+#2 unknown(0): autoload()
+#3 F:\vhost\yii-skeleton\frontend\controllers\SiteController.php(4): spl_autoload_call()
+#4 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1792): require()
+#5 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1740): CWebApplication->createController()
+#6 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController()
+#7 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#8 F:\vhost\yii-skeleton\frontend\www\index.php(14): CWebApplication->run()
+REQUEST_URI=/frontend/www/index.php/site/index
+2013/09/25 10:19:46 [error] [php] include(BaseController.php): failed to open stream: No such file or directory (F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:244)
+Stack trace:
+#0 F:\vhost\yii-skeleton\frontend\components\FrontendController.php(7): spl_autoload_call()
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(244): include()
+#2 unknown(0): autoload()
+#3 F:\vhost\yii-skeleton\frontend\controllers\SiteController.php(4): spl_autoload_call()
+#4 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1792): require()
+#5 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1740): CWebApplication->createController()
+#6 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController()
+#7 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#8 F:\vhost\yii-skeleton\frontend\www\index.php(14): CWebApplication->run()
+REQUEST_URI=/frontend/www/index.php/site/index
+2013/09/25 10:19:46 [error] [php] include(BaseController.php): failed to open stream: No such file or directory (F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:244)
+Stack trace:
+#0 F:\vhost\yii-skeleton\frontend\components\FrontendController.php(7): spl_autoload_call()
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(244): include()
+#2 unknown(0): autoload()
+#3 F:\vhost\yii-skeleton\frontend\controllers\SiteController.php(4): spl_autoload_call()
+#4 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1792): require()
+#5 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1740): CWebApplication->createController()
+#6 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController()
+#7 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#8 F:\vhost\yii-skeleton\frontend\www\index.php(14): CWebApplication->run()
+REQUEST_URI=/frontend/www/index.php/site/index
+2013/09/25 10:19:46 [error] [php] include(BaseController.php): failed to open stream: No such file or directory (F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:244)
+Stack trace:
+#0 F:\vhost\yii-skeleton\frontend\components\FrontendController.php(7): spl_autoload_call()
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(244): include()
+#2 unknown(0): autoload()
+#3 F:\vhost\yii-skeleton\frontend\controllers\SiteController.php(4): spl_autoload_call()
+#4 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1792): require()
+#5 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1740): CWebApplication->createController()
+#6 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController()
+#7 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#8 F:\vhost\yii-skeleton\frontend\www\index.php(14): CWebApplication->run()
+REQUEST_URI=/frontend/www/index.php/site/index
+2013/09/25 10:19:46 [error] [php] include(BaseController.php): failed to open stream: No such file or directory (F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:244)
+Stack trace:
+#0 F:\vhost\yii-skeleton\frontend\components\FrontendController.php(7): spl_autoload_call()
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(244): include()
+#2 unknown(0): autoload()
+#3 F:\vhost\yii-skeleton\frontend\controllers\SiteController.php(4): spl_autoload_call()
+#4 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1792): require()
+#5 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1740): CWebApplication->createController()
+#6 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController()
+#7 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#8 F:\vhost\yii-skeleton\frontend\www\index.php(14): CWebApplication->run()
+REQUEST_URI=/frontend/www/index.php/site/index
+2013/09/25 10:19:46 [error] [php] include(BaseController.php): failed to open stream: No such file or directory (F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:244)
+Stack trace:
+#0 F:\vhost\yii-skeleton\frontend\components\FrontendController.php(7): spl_autoload_call()
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(244): include()
+#2 unknown(0): autoload()
+#3 F:\vhost\yii-skeleton\frontend\controllers\SiteController.php(4): spl_autoload_call()
+#4 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1792): require()
+#5 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1740): CWebApplication->createController()
+#6 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController()
+#7 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#8 F:\vhost\yii-skeleton\frontend\www\index.php(14): CWebApplication->run()
+REQUEST_URI=/frontend/www/index.php/site/index
+2013/09/25 10:19:46 [error] [php] include(BaseController.php): failed to open stream: No such file or directory (F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:244)
+Stack trace:
+#0 F:\vhost\yii-skeleton\frontend\components\FrontendController.php(7): spl_autoload_call()
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(244): include()
+#2 unknown(0): autoload()
+#3 F:\vhost\yii-skeleton\frontend\controllers\SiteController.php(4): spl_autoload_call()
+#4 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1792): require()
+#5 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1740): CWebApplication->createController()
+#6 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController()
+#7 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#8 F:\vhost\yii-skeleton\frontend\www\index.php(14): CWebApplication->run()
+REQUEST_URI=/frontend/www/index.php/site/index
+2013/09/25 10:22:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/login
+---
+2013/09/25 10:22:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php
+HTTP_REFERER=http://yii-skeleton/frontend/www/index.php/site/login
+---
+2013/09/25 10:22:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php
+---
+2013/09/25 10:22:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php
+---
+2013/09/25 10:22:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php
+---
+2013/09/25 10:22:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php
+---
+2013/09/25 10:23:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php
+---
+2013/09/25 10:23:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post".' in F:\vhost\yii-skeleton\common\lib\yii\yiilite.php:1750
+Stack trace:
+#0 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1666): CWebApplication->runController('')
+#1 F:\vhost\yii-skeleton\common\lib\yii\yiilite.php(1191): CWebApplication->processRequest()
+#2 F:\vhost\yii-skeleton\frontend\www\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/frontend/www/index.php
+---
